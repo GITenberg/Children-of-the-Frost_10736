@@ -1,0 +1,32 @@
+_repo: Children-of-the-Frost_10736
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10736'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- !lcsh 'Indians of North America -- Fiction'
+- GITenberg
+tableOfContents: In the forests of the north -- The law of life -- Nam-bok the unveracious
+  -- The master of mystery -- The sunlanders -- The sickness of lone chief -- Keesh,
+  the son of Keesh -- The death of Ligoun -- Li Wan, the fair -- The league of the
+  old men.
+title: Children of the Frost
+url: http://www.gutenberg.org/ebooks/10736
